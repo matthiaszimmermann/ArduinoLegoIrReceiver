@@ -1,6 +1,6 @@
-# ArduinoLegoIrReceiver
+# Arduino LEGO IR Power Functions Receiver
 
-Arduino Library for receiving commands from Lego IR controllers
+Arduino Library for receiving commands from various Lego IR controllers
 
 ## Usage
 
